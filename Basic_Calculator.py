@@ -2,22 +2,22 @@
 def add(a, b):
     answer = a + b
     #Give user visualization
-    print(str(a) + " + " + str(b) + " = " + str(answer))
+    print(str(a) + " + " + str(b) + " = " + str(answer) + "\n")
 
 def sub(a, b):
     answer = a - b
     #Give user visualization
-    print(str(a) + " - " + str(b) + " = " + str(answer))
+    print(str(a) + " - " + str(b) + " = " + str(answer) + "\n")
 
 def multi(a, b):
     answer = a * b
     #Give user visualization
-    print(str(a) + " * " + str(b) + " = " + str(answer))
+    print(str(a) + " * " + str(b) + " = " + str(answer) + "\n")
 
 def div(a, b):
     answer = a / b
     #Give user visualization
-    print(str(a) + " / " + str(b) + " = " + str(answer))
+    print(str(a) + " / " + str(b) + " = " + str(answer) + "\n")
 
 
 #Add while to continue the program until the user wants to exit
